@@ -1,6 +1,5 @@
-# ecom_app
-<<<<<<< HEAD
 
+# ecom_app
 A new Flutter project.
 
 ## Getting Started
@@ -15,6 +14,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-=======
-40video
->>>>>>> 718512201d8e4274c07a9817ac94d2f62a684ac1
+
